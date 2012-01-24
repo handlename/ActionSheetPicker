@@ -26,7 +26,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <UIKit/UIKit.h>
 
 @interface AbstractActionSheetPicker : NSObject
 @property (nonatomic, copy) NSString *title;
